@@ -1,0 +1,1484 @@
+[LAODLIB] catch ./utils
+[LAODLIB] context ./utils
+[LAODLIB] tools ./utils
+[LAODLIB] times ./utils
+[LOADSCENE] payment
+[LOADSCENE] registration
+[LAODLIB] private ./src
+[LAODLIB] connect ./src
+[LAODLIB] new_member ./src
+[LAODLIB] group ./src
+Бот запущен!
+^Z^X^C[LAODLIB] catch ./utils
+[LAODLIB] context ./utils
+[LAODLIB] tools ./utils
+[LAODLIB] times ./utils
+[LOADSCENE] payment
+[LOADSCENE] registration
+[LAODLIB] private ./src
+[LAODLIB] connect ./src
+[LAODLIB] new_member ./src
+[LAODLIB] group ./src
+Бот запущен!
+[LAODLIB] catch ./utils
+[LAODLIB] context ./utils
+[LAODLIB] tools ./utils
+[LAODLIB] times ./utils
+[LOADSCENE] payment
+[LOADSCENE] registration
+[LAODLIB] private ./src
+[LAODLIB] connect ./src
+[LAODLIB] new_member ./src
+[LAODLIB] group ./src
+Бот запущен!
+[LAODLIB] catch ./utils
+[LAODLIB] context ./utils
+[LAODLIB] tools ./utils
+[LAODLIB] times ./utils
+[LOADSCENE] payment
+[LOADSCENE] registration
+[LAODLIB] private ./src
+[LAODLIB] connect ./src
+[LAODLIB] new_member ./src
+[LAODLIB] group ./src
+Бот запущен!
+polyexp
+[LAODLIB] catch ./utils
+[LAODLIB] context ./utils
+[LAODLIB] tools ./utils
+[LAODLIB] times ./utils
+[LOADSCENE] payment
+[LOADSCENE] registration
+[LAODLIB] private ./src
+[LAODLIB] connect ./src
+[LAODLIB] new_member ./src
+[LAODLIB] group ./src
+Бот запущен!
+An unexpected error has occurred. TelegramError: 400: Bad Request: message can't be deleted for everyone
+    at Telegram.callApi (/root/node_modules/[4mtelegraf[24m/lib/core/network/client.js:293:19)
+[90m    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)[39m
+    at async [90m/root/bot/[39msrc/group.js:14:17
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17) {
+  response: {
+    ok: [33mfalse[39m,
+    error_code: [33m400[39m,
+    description: [32m"Bad Request: message can't be deleted for everyone"[39m
+  },
+  on: {
+    method: [32m'deleteMessage'[39m,
+    payload: { chat_id: [33m-838949044[39m, message_id: [33m1083[39m }
+  }
+}
+An unexpected error has occurred. TelegramError: 400: Bad Request: message can't be deleted for everyone
+    at Telegram.callApi (/root/node_modules/[4mtelegraf[24m/lib/core/network/client.js:293:19)
+[90m    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)[39m
+    at async [90m/root/bot/[39msrc/group.js:14:17
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17) {
+  response: {
+    ok: [33mfalse[39m,
+    error_code: [33m400[39m,
+    description: [32m"Bad Request: message can't be deleted for everyone"[39m
+  },
+  on: {
+    method: [32m'deleteMessage'[39m,
+    payload: { chat_id: [33m-838949044[39m, message_id: [33m1084[39m }
+  }
+}
+An unexpected error has occurred. TelegramError: 400: Bad Request: message can't be deleted for everyone
+    at Telegram.callApi (/root/node_modules/[4mtelegraf[24m/lib/core/network/client.js:293:19)
+[90m    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)[39m
+    at async [90m/root/bot/[39msrc/group.js:14:17
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17) {
+  response: {
+    ok: [33mfalse[39m,
+    error_code: [33m400[39m,
+    description: [32m"Bad Request: message can't be deleted for everyone"[39m
+  },
+  on: {
+    method: [32m'deleteMessage'[39m,
+    payload: { chat_id: [33m-838949044[39m, message_id: [33m1085[39m }
+  }
+}
+An unexpected error has occurred. TelegramError: 400: Bad Request: message can't be deleted for everyone
+    at Telegram.callApi (/root/node_modules/[4mtelegraf[24m/lib/core/network/client.js:293:19)
+[90m    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)[39m
+    at async [90m/root/bot/[39msrc/group.js:14:17
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17) {
+  response: {
+    ok: [33mfalse[39m,
+    error_code: [33m400[39m,
+    description: [32m"Bad Request: message can't be deleted for everyone"[39m
+  },
+  on: {
+    method: [32m'deleteMessage'[39m,
+    payload: { chat_id: [33m-838949044[39m, message_id: [33m1086[39m }
+  }
+}
+An unexpected error has occurred. TelegramError: 400: Bad Request: message can't be deleted for everyone
+    at Telegram.callApi (/root/node_modules/[4mtelegraf[24m/lib/core/network/client.js:293:19)
+[90m    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)[39m
+    at async [90m/root/bot/[39msrc/group.js:14:17
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17) {
+  response: {
+    ok: [33mfalse[39m,
+    error_code: [33m400[39m,
+    description: [32m"Bad Request: message can't be deleted for everyone"[39m
+  },
+  on: {
+    method: [32m'deleteMessage'[39m,
+    payload: { chat_id: [33m-838949044[39m, message_id: [33m1087[39m }
+  }
+}
+alenka_l_a_s
+Masha_v_sety
+Sexolog_Elena_Moon
+lindadecor
+[90mundefined[39m
+shtorm_tatiana
+An unexpected error has occurred. TelegramError: 400: Bad Request: message can't be deleted for everyone
+    at Telegram.callApi (/root/node_modules/[4mtelegraf[24m/lib/core/network/client.js:293:19)
+[90m    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)[39m
+    at async [90m/root/bot/[39msrc/group.js:14:17
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17) {
+  response: {
+    ok: [33mfalse[39m,
+    error_code: [33m400[39m,
+    description: [32m"Bad Request: message can't be deleted for everyone"[39m
+  },
+  on: {
+    method: [32m'deleteMessage'[39m,
+    payload: { chat_id: [33m-838949044[39m, message_id: [33m1427[39m }
+  }
+}
+An unexpected error has occurred. TelegramError: 400: Bad Request: message can't be deleted for everyone
+    at Telegram.callApi (/root/node_modules/[4mtelegraf[24m/lib/core/network/client.js:293:19)
+[90m    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)[39m
+    at async [90m/root/bot/[39msrc/group.js:14:17
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17) {
+  response: {
+    ok: [33mfalse[39m,
+    error_code: [33m400[39m,
+    description: [32m"Bad Request: message can't be deleted for everyone"[39m
+  },
+  on: {
+    method: [32m'deleteMessage'[39m,
+    payload: { chat_id: [33m-838949044[39m, message_id: [33m1428[39m }
+  }
+}
+An unexpected error has occurred. TelegramError: 400: Bad Request: message can't be deleted for everyone
+    at Telegram.callApi (/root/node_modules/[4mtelegraf[24m/lib/core/network/client.js:293:19)
+[90m    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)[39m
+    at async [90m/root/bot/[39msrc/group.js:14:17
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17) {
+  response: {
+    ok: [33mfalse[39m,
+    error_code: [33m400[39m,
+    description: [32m"Bad Request: message can't be deleted for everyone"[39m
+  },
+  on: {
+    method: [32m'deleteMessage'[39m,
+    payload: { chat_id: [33m-838949044[39m, message_id: [33m1429[39m }
+  }
+}
+An unexpected error has occurred. TelegramError: 400: Bad Request: message can't be deleted for everyone
+    at Telegram.callApi (/root/node_modules/[4mtelegraf[24m/lib/core/network/client.js:293:19)
+[90m    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)[39m
+    at async [90m/root/bot/[39msrc/group.js:14:17
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17) {
+  response: {
+    ok: [33mfalse[39m,
+    error_code: [33m400[39m,
+    description: [32m"Bad Request: message can't be deleted for everyone"[39m
+  },
+  on: {
+    method: [32m'deleteMessage'[39m,
+    payload: { chat_id: [33m-838949044[39m, message_id: [33m1430[39m }
+  }
+}
+An unexpected error has occurred. TelegramError: 400: Bad Request: message can't be deleted for everyone
+    at Telegram.callApi (/root/node_modules/[4mtelegraf[24m/lib/core/network/client.js:293:19)
+[90m    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)[39m
+    at async [90m/root/bot/[39msrc/group.js:14:17
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17) {
+  response: {
+    ok: [33mfalse[39m,
+    error_code: [33m400[39m,
+    description: [32m"Bad Request: message can't be deleted for everyone"[39m
+  },
+  on: {
+    method: [32m'deleteMessage'[39m,
+    payload: { chat_id: [33m-838949044[39m, message_id: [33m1431[39m }
+  }
+}
+An unexpected error has occurred. TelegramError: 400: Bad Request: message can't be deleted for everyone
+    at Telegram.callApi (/root/node_modules/[4mtelegraf[24m/lib/core/network/client.js:293:19)
+[90m    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)[39m
+    at async [90m/root/bot/[39msrc/group.js:14:17
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17) {
+  response: {
+    ok: [33mfalse[39m,
+    error_code: [33m400[39m,
+    description: [32m"Bad Request: message can't be deleted for everyone"[39m
+  },
+  on: {
+    method: [32m'deleteMessage'[39m,
+    payload: { chat_id: [33m-838949044[39m, message_id: [33m1432[39m }
+  }
+}
+An unexpected error has occurred. TelegramError: 400: Bad Request: message can't be deleted for everyone
+    at Telegram.callApi (/root/node_modules/[4mtelegraf[24m/lib/core/network/client.js:293:19)
+[90m    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)[39m
+    at async [90m/root/bot/[39msrc/group.js:14:17
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17) {
+  response: {
+    ok: [33mfalse[39m,
+    error_code: [33m400[39m,
+    description: [32m"Bad Request: message can't be deleted for everyone"[39m
+  },
+  on: {
+    method: [32m'deleteMessage'[39m,
+    payload: { chat_id: [33m-838949044[39m, message_id: [33m1433[39m }
+  }
+}
+An unexpected error has occurred. TelegramError: 400: Bad Request: message can't be deleted for everyone
+    at Telegram.callApi (/root/node_modules/[4mtelegraf[24m/lib/core/network/client.js:293:19)
+[90m    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)[39m
+    at async [90m/root/bot/[39msrc/group.js:14:17
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17) {
+  response: {
+    ok: [33mfalse[39m,
+    error_code: [33m400[39m,
+    description: [32m"Bad Request: message can't be deleted for everyone"[39m
+  },
+  on: {
+    method: [32m'deleteMessage'[39m,
+    payload: { chat_id: [33m-838949044[39m, message_id: [33m1434[39m }
+  }
+}
+An unexpected error has occurred. TelegramError: 400: Bad Request: message can't be deleted for everyone
+    at Telegram.callApi (/root/node_modules/[4mtelegraf[24m/lib/core/network/client.js:293:19)
+[90m    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)[39m
+    at async [90m/root/bot/[39msrc/group.js:14:17
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17) {
+  response: {
+    ok: [33mfalse[39m,
+    error_code: [33m400[39m,
+    description: [32m"Bad Request: message can't be deleted for everyone"[39m
+  },
+  on: {
+    method: [32m'deleteMessage'[39m,
+    payload: { chat_id: [33m-838949044[39m, message_id: [33m1435[39m }
+  }
+}
+An unexpected error has occurred. TelegramError: 400: Bad Request: message can't be deleted for everyone
+    at Telegram.callApi (/root/node_modules/[4mtelegraf[24m/lib/core/network/client.js:293:19)
+[90m    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)[39m
+    at async [90m/root/bot/[39msrc/group.js:14:17
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17) {
+  response: {
+    ok: [33mfalse[39m,
+    error_code: [33m400[39m,
+    description: [32m"Bad Request: message can't be deleted for everyone"[39m
+  },
+  on: {
+    method: [32m'deleteMessage'[39m,
+    payload: { chat_id: [33m-838949044[39m, message_id: [33m1436[39m }
+  }
+}
+[LAODLIB] catch ./utils
+[LAODLIB] context ./utils
+[LAODLIB] tools ./utils
+[LAODLIB] times ./utils
+[LOADSCENE] payment
+[LOADSCENE] registration
+[LAODLIB] private ./src
+[LAODLIB] connect ./src
+[LAODLIB] new_member ./src
+[LAODLIB] group ./src
+Бот запущен!
+An unexpected error has occurred. TelegramError: 400: Bad Request: message can't be deleted for everyone
+    at Telegram.callApi (/root/node_modules/[4mtelegraf[24m/lib/core/network/client.js:293:19)
+[90m    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)[39m
+    at async [90m/root/bot/[39msrc/group.js:14:17
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17) {
+  response: {
+    ok: [33mfalse[39m,
+    error_code: [33m400[39m,
+    description: [32m"Bad Request: message can't be deleted for everyone"[39m
+  },
+  on: {
+    method: [32m'deleteMessage'[39m,
+    payload: { chat_id: [33m-838949044[39m, message_id: [33m1437[39m }
+  }
+}
+An unexpected error has occurred. TelegramError: 400: Bad Request: message can't be deleted for everyone
+    at Telegram.callApi (/root/node_modules/[4mtelegraf[24m/lib/core/network/client.js:293:19)
+[90m    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)[39m
+    at async [90m/root/bot/[39msrc/group.js:14:17
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17) {
+  response: {
+    ok: [33mfalse[39m,
+    error_code: [33m400[39m,
+    description: [32m"Bad Request: message can't be deleted for everyone"[39m
+  },
+  on: {
+    method: [32m'deleteMessage'[39m,
+    payload: { chat_id: [33m-838949044[39m, message_id: [33m1438[39m }
+  }
+}
+vasiliyeremenko
+[LAODLIB] catch ./utils
+[LAODLIB] context ./utils
+[LAODLIB] tools ./utils
+[LAODLIB] times ./utils
+[LOADSCENE] payment
+[LOADSCENE] registration
+[LAODLIB] private ./src
+[LAODLIB] connect ./src
+[LAODLIB] new_member ./src
+[LAODLIB] group ./src
+Бот запущен!
+Punik_Elena
+olga_organizuet
+An unexpected error has occurred. TelegramError: 400: Bad Request: can't remove chat owner
+    at Telegram.callApi (/root/node_modules/[4mtelegraf[24m/lib/core/network/client.js:293:19)
+[90m    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)[39m
+    at async [90m/root/bot/[39mscenes/registration.js:83:5
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21 {
+  response: {
+    ok: [33mfalse[39m,
+    error_code: [33m400[39m,
+    description: [32m"Bad Request: can't remove chat owner"[39m
+  },
+  on: {
+    method: [32m'promoteChatMember'[39m,
+    payload: {
+      chat_id: [33m-1001476304807[39m,
+      user_id: [33m307042990[39m,
+      can_change_info: [33mfalse[39m,
+      can_post_messages: [33mtrue[39m,
+      can_edit_messages: [33mtrue[39m,
+      can_delete_messages: [33mtrue[39m,
+      can_invite_users: [33mtrue[39m,
+      can_restrict_members: [33mfalse[39m,
+      can_pin_messages: [33mfalse[39m,
+      can_promote_members: [33mfalse[39m
+    }
+  }
+}
+olga_organizuet
+An unexpected error has occurred. TelegramError: 400: Bad Request: can't remove chat owner
+    at Telegram.callApi (/root/node_modules/[4mtelegraf[24m/lib/core/network/client.js:293:19)
+[90m    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)[39m
+    at async [90m/root/bot/[39mscenes/registration.js:83:5
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21 {
+  response: {
+    ok: [33mfalse[39m,
+    error_code: [33m400[39m,
+    description: [32m"Bad Request: can't remove chat owner"[39m
+  },
+  on: {
+    method: [32m'promoteChatMember'[39m,
+    payload: {
+      chat_id: [33m-1001476304807[39m,
+      user_id: [33m307042990[39m,
+      can_change_info: [33mfalse[39m,
+      can_post_messages: [33mtrue[39m,
+      can_edit_messages: [33mtrue[39m,
+      can_delete_messages: [33mtrue[39m,
+      can_invite_users: [33mtrue[39m,
+      can_restrict_members: [33mfalse[39m,
+      can_pin_messages: [33mfalse[39m,
+      can_promote_members: [33mfalse[39m
+    }
+  }
+}
+olga_organizuet
+An unexpected error has occurred. TelegramError: 400: Bad Request: can't remove chat owner
+    at Telegram.callApi (/root/node_modules/[4mtelegraf[24m/lib/core/network/client.js:293:19)
+[90m    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)[39m
+    at async [90m/root/bot/[39mscenes/registration.js:83:5
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21 {
+  response: {
+    ok: [33mfalse[39m,
+    error_code: [33m400[39m,
+    description: [32m"Bad Request: can't remove chat owner"[39m
+  },
+  on: {
+    method: [32m'promoteChatMember'[39m,
+    payload: {
+      chat_id: [33m-1001476304807[39m,
+      user_id: [33m307042990[39m,
+      can_change_info: [33mfalse[39m,
+      can_post_messages: [33mtrue[39m,
+      can_edit_messages: [33mtrue[39m,
+      can_delete_messages: [33mtrue[39m,
+      can_invite_users: [33mtrue[39m,
+      can_restrict_members: [33mfalse[39m,
+      can_pin_messages: [33mfalse[39m,
+      can_promote_members: [33mfalse[39m
+    }
+  }
+}
+olga_organizuet
+An unexpected error has occurred. TelegramError: 400: Bad Request: can't remove chat owner
+    at Telegram.callApi (/root/node_modules/[4mtelegraf[24m/lib/core/network/client.js:293:19)
+[90m    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)[39m
+    at async [90m/root/bot/[39mscenes/registration.js:83:5
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21 {
+  response: {
+    ok: [33mfalse[39m,
+    error_code: [33m400[39m,
+    description: [32m"Bad Request: can't remove chat owner"[39m
+  },
+  on: {
+    method: [32m'promoteChatMember'[39m,
+    payload: {
+      chat_id: [33m-1001476304807[39m,
+      user_id: [33m307042990[39m,
+      can_change_info: [33mfalse[39m,
+      can_post_messages: [33mtrue[39m,
+      can_edit_messages: [33mtrue[39m,
+      can_delete_messages: [33mtrue[39m,
+      can_invite_users: [33mtrue[39m,
+      can_restrict_members: [33mfalse[39m,
+      can_pin_messages: [33mfalse[39m,
+      can_promote_members: [33mfalse[39m
+    }
+  }
+}
+An unexpected error has occurred. TelegramError: 400: Bad Request: message can't be deleted for everyone
+    at Telegram.callApi (/root/node_modules/[4mtelegraf[24m/lib/core/network/client.js:293:19)
+[90m    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)[39m
+    at async [90m/root/bot/[39msrc/group.js:14:17
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17) {
+  response: {
+    ok: [33mfalse[39m,
+    error_code: [33m400[39m,
+    description: [32m"Bad Request: message can't be deleted for everyone"[39m
+  },
+  on: {
+    method: [32m'deleteMessage'[39m,
+    payload: { chat_id: [33m-838949044[39m, message_id: [33m1616[39m }
+  }
+}
+An unexpected error has occurred. TelegramError: 400: Bad Request: message can't be deleted for everyone
+    at Telegram.callApi (/root/node_modules/[4mtelegraf[24m/lib/core/network/client.js:293:19)
+[90m    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)[39m
+    at async [90m/root/bot/[39msrc/group.js:14:17
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17) {
+  response: {
+    ok: [33mfalse[39m,
+    error_code: [33m400[39m,
+    description: [32m"Bad Request: message can't be deleted for everyone"[39m
+  },
+  on: {
+    method: [32m'deleteMessage'[39m,
+    payload: { chat_id: [33m-838949044[39m, message_id: [33m1617[39m }
+  }
+}
+Antya_psy
+An unexpected error has occurred. TelegramError: 400: Bad Request: message can't be deleted for everyone
+    at Telegram.callApi (/root/node_modules/[4mtelegraf[24m/lib/core/network/client.js:293:19)
+[90m    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)[39m
+    at async [90m/root/bot/[39msrc/group.js:14:17
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17) {
+  response: {
+    ok: [33mfalse[39m,
+    error_code: [33m400[39m,
+    description: [32m"Bad Request: message can't be deleted for everyone"[39m
+  },
+  on: {
+    method: [32m'deleteMessage'[39m,
+    payload: { chat_id: [33m-838949044[39m, message_id: [33m1659[39m }
+  }
+}
+An unexpected error has occurred. TelegramError: 400: Bad Request: message can't be deleted for everyone
+    at Telegram.callApi (/root/node_modules/[4mtelegraf[24m/lib/core/network/client.js:293:19)
+[90m    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)[39m
+    at async [90m/root/bot/[39msrc/group.js:14:17
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17) {
+  response: {
+    ok: [33mfalse[39m,
+    error_code: [33m400[39m,
+    description: [32m"Bad Request: message can't be deleted for everyone"[39m
+  },
+  on: {
+    method: [32m'deleteMessage'[39m,
+    payload: { chat_id: [33m-838949044[39m, message_id: [33m1660[39m }
+  }
+}
+An unexpected error has occurred. TelegramError: 400: Bad Request: message can't be deleted for everyone
+    at Telegram.callApi (/root/node_modules/[4mtelegraf[24m/lib/core/network/client.js:293:19)
+[90m    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)[39m
+    at async [90m/root/bot/[39msrc/group.js:14:17
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17) {
+  response: {
+    ok: [33mfalse[39m,
+    error_code: [33m400[39m,
+    description: [32m"Bad Request: message can't be deleted for everyone"[39m
+  },
+  on: {
+    method: [32m'deleteMessage'[39m,
+    payload: { chat_id: [33m-838949044[39m, message_id: [33m1661[39m }
+  }
+}
+An unexpected error has occurred. TelegramError: 400: Bad Request: message can't be deleted for everyone
+    at Telegram.callApi (/root/node_modules/[4mtelegraf[24m/lib/core/network/client.js:293:19)
+[90m    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)[39m
+    at async [90m/root/bot/[39msrc/group.js:14:17
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17) {
+  response: {
+    ok: [33mfalse[39m,
+    error_code: [33m400[39m,
+    description: [32m"Bad Request: message can't be deleted for everyone"[39m
+  },
+  on: {
+    method: [32m'deleteMessage'[39m,
+    payload: { chat_id: [33m-838949044[39m, message_id: [33m1662[39m }
+  }
+}
+An unexpected error has occurred. TelegramError: 400: Bad Request: message can't be deleted for everyone
+    at Telegram.callApi (/root/node_modules/[4mtelegraf[24m/lib/core/network/client.js:293:19)
+[90m    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)[39m
+    at async [90m/root/bot/[39msrc/group.js:14:17
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17) {
+  response: {
+    ok: [33mfalse[39m,
+    error_code: [33m400[39m,
+    description: [32m"Bad Request: message can't be deleted for everyone"[39m
+  },
+  on: {
+    method: [32m'deleteMessage'[39m,
+    payload: { chat_id: [33m-838949044[39m, message_id: [33m1667[39m }
+  }
+}
+An unexpected error has occurred. TelegramError: 400: Bad Request: message can't be deleted for everyone
+    at Telegram.callApi (/root/node_modules/[4mtelegraf[24m/lib/core/network/client.js:293:19)
+[90m    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)[39m
+    at async [90m/root/bot/[39msrc/group.js:14:17
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17) {
+  response: {
+    ok: [33mfalse[39m,
+    error_code: [33m400[39m,
+    description: [32m"Bad Request: message can't be deleted for everyone"[39m
+  },
+  on: {
+    method: [32m'deleteMessage'[39m,
+    payload: { chat_id: [33m-838949044[39m, message_id: [33m1668[39m }
+  }
+}
+[LAODLIB] catch ./utils
+[LAODLIB] context ./utils
+[LAODLIB] tools ./utils
+[LAODLIB] times ./utils
+[LOADSCENE] payment
+[LOADSCENE] registration
+[LAODLIB] private ./src
+[LAODLIB] connect ./src
+[LAODLIB] new_member ./src
+[LAODLIB] group ./src
+Бот запущен!
+maksrock182
+Felix39
+An unexpected error has occurred. TelegramError: 400: Bad Request: message can't be deleted for everyone
+    at Telegram.callApi (/root/node_modules/[4mtelegraf[24m/lib/core/network/client.js:293:19)
+[90m    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)[39m
+    at async [90m/root/bot/[39msrc/group.js:14:17
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17) {
+  response: {
+    ok: [33mfalse[39m,
+    error_code: [33m400[39m,
+    description: [32m"Bad Request: message can't be deleted for everyone"[39m
+  },
+  on: {
+    method: [32m'deleteMessage'[39m,
+    payload: { chat_id: [33m-838949044[39m, message_id: [33m1775[39m }
+  }
+}
+[LAODLIB] catch ./utils
+[LAODLIB] context ./utils
+[LAODLIB] tools ./utils
+[LAODLIB] times ./utils
+[LOADSCENE] payment
+[LOADSCENE] registration
+[LAODLIB] private ./src
+[LAODLIB] connect ./src
+[LAODLIB] new_member ./src
+[LAODLIB] group ./src
+Бот запущен!
+An unexpected error has occurred. TelegramError: 400: Bad Request: message can't be deleted for everyone
+    at Telegram.callApi (/root/node_modules/[4mtelegraf[24m/lib/core/network/client.js:293:19)
+[90m    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)[39m
+    at async [90m/root/bot/[39msrc/group.js:14:17
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17) {
+  response: {
+    ok: [33mfalse[39m,
+    error_code: [33m400[39m,
+    description: [32m"Bad Request: message can't be deleted for everyone"[39m
+  },
+  on: {
+    method: [32m'deleteMessage'[39m,
+    payload: { chat_id: [33m-838949044[39m, message_id: [33m1825[39m }
+  }
+}
+An unexpected error has occurred. TelegramError: 400: Bad Request: message can't be deleted for everyone
+    at Telegram.callApi (/root/node_modules/[4mtelegraf[24m/lib/core/network/client.js:293:19)
+[90m    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)[39m
+    at async [90m/root/bot/[39msrc/group.js:14:17
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17) {
+  response: {
+    ok: [33mfalse[39m,
+    error_code: [33m400[39m,
+    description: [32m"Bad Request: message can't be deleted for everyone"[39m
+  },
+  on: {
+    method: [32m'deleteMessage'[39m,
+    payload: { chat_id: [33m-838949044[39m, message_id: [33m1826[39m }
+  }
+}
+An unexpected error has occurred. TelegramError: 400: Bad Request: message can't be deleted for everyone
+    at Telegram.callApi (/root/node_modules/[4mtelegraf[24m/lib/core/network/client.js:293:19)
+[90m    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)[39m
+    at async [90m/root/bot/[39msrc/group.js:14:17
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17) {
+  response: {
+    ok: [33mfalse[39m,
+    error_code: [33m400[39m,
+    description: [32m"Bad Request: message can't be deleted for everyone"[39m
+  },
+  on: {
+    method: [32m'deleteMessage'[39m,
+    payload: { chat_id: [33m-838949044[39m, message_id: [33m1827[39m }
+  }
+}
+An unexpected error has occurred. TelegramError: 400: Bad Request: group chat was upgraded to a supergroup chat
+    at Telegram.callApi (/root/node_modules/[4mtelegraf[24m/lib/core/network/client.js:293:19)
+[90m    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)[39m
+    at async [90m/root/bot/[39msrc/group.js:14:17
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17) {
+  response: {
+    ok: [33mfalse[39m,
+    error_code: [33m400[39m,
+    description: [32m'Bad Request: group chat was upgraded to a supergroup chat'[39m,
+    parameters: { migrate_to_chat_id: [33m-1001859432020[39m }
+  },
+  on: {
+    method: [32m'deleteMessage'[39m,
+    payload: { chat_id: [33m-999205820[39m, message_id: [33m1829[39m }
+  }
+}
+An unexpected error has occurred. TelegramError: 400: Bad Request: message can't be deleted
+    at Telegram.callApi (/root/node_modules/[4mtelegraf[24m/lib/core/network/client.js:293:19)
+[90m    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)[39m
+    at async [90m/root/bot/[39msrc/group.js:14:17
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17) {
+  response: {
+    ok: [33mfalse[39m,
+    error_code: [33m400[39m,
+    description: [32m"Bad Request: message can't be deleted"[39m
+  },
+  on: {
+    method: [32m'deleteMessage'[39m,
+    payload: { chat_id: [33m-1001859432020[39m, message_id: [33m2[39m }
+  }
+}
+An unexpected error has occurred. TelegramError: 400: Bad Request: message can't be deleted
+    at Telegram.callApi (/root/node_modules/[4mtelegraf[24m/lib/core/network/client.js:293:19)
+[90m    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)[39m
+    at async [90m/root/bot/[39msrc/group.js:14:17
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17) {
+  response: {
+    ok: [33mfalse[39m,
+    error_code: [33m400[39m,
+    description: [32m"Bad Request: message can't be deleted"[39m
+  },
+  on: {
+    method: [32m'deleteMessage'[39m,
+    payload: { chat_id: [33m-1001859432020[39m, message_id: [33m3[39m }
+  }
+}
+An unexpected error has occurred. TelegramError: 400: Bad Request: message can't be deleted for everyone
+    at Telegram.callApi (/root/node_modules/[4mtelegraf[24m/lib/core/network/client.js:293:19)
+[90m    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)[39m
+    at async [90m/root/bot/[39msrc/group.js:14:17
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17) {
+  response: {
+    ok: [33mfalse[39m,
+    error_code: [33m400[39m,
+    description: [32m"Bad Request: message can't be deleted for everyone"[39m
+  },
+  on: {
+    method: [32m'deleteMessage'[39m,
+    payload: { chat_id: [33m-838949044[39m, message_id: [33m1834[39m }
+  }
+}
+An unexpected error has occurred. TelegramError: 400: Bad Request: message can't be deleted for everyone
+    at Telegram.callApi (/root/node_modules/[4mtelegraf[24m/lib/core/network/client.js:293:19)
+[90m    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)[39m
+    at async [90m/root/bot/[39msrc/group.js:14:17
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17) {
+  response: {
+    ok: [33mfalse[39m,
+    error_code: [33m400[39m,
+    description: [32m"Bad Request: message can't be deleted for everyone"[39m
+  },
+  on: {
+    method: [32m'deleteMessage'[39m,
+    payload: { chat_id: [33m-838949044[39m, message_id: [33m1835[39m }
+  }
+}
+An unexpected error has occurred. TelegramError: 400: Bad Request: message can't be deleted for everyone
+    at Telegram.callApi (/root/node_modules/[4mtelegraf[24m/lib/core/network/client.js:293:19)
+[90m    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)[39m
+    at async [90m/root/bot/[39msrc/group.js:14:17
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17) {
+  response: {
+    ok: [33mfalse[39m,
+    error_code: [33m400[39m,
+    description: [32m"Bad Request: message can't be deleted for everyone"[39m
+  },
+  on: {
+    method: [32m'deleteMessage'[39m,
+    payload: { chat_id: [33m-838949044[39m, message_id: [33m1836[39m }
+  }
+}
+An unexpected error has occurred. TelegramError: 400: Bad Request: message can't be deleted for everyone
+    at Telegram.callApi (/root/node_modules/[4mtelegraf[24m/lib/core/network/client.js:293:19)
+[90m    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)[39m
+    at async [90m/root/bot/[39msrc/group.js:14:17
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17) {
+  response: {
+    ok: [33mfalse[39m,
+    error_code: [33m400[39m,
+    description: [32m"Bad Request: message can't be deleted for everyone"[39m
+  },
+  on: {
+    method: [32m'deleteMessage'[39m,
+    payload: { chat_id: [33m-838949044[39m, message_id: [33m1837[39m }
+  }
+}
+An unexpected error has occurred. TelegramError: 400: Bad Request: message can't be deleted for everyone
+    at Telegram.callApi (/root/node_modules/[4mtelegraf[24m/lib/core/network/client.js:293:19)
+[90m    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)[39m
+    at async [90m/root/bot/[39msrc/group.js:14:17
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17) {
+  response: {
+    ok: [33mfalse[39m,
+    error_code: [33m400[39m,
+    description: [32m"Bad Request: message can't be deleted for everyone"[39m
+  },
+  on: {
+    method: [32m'deleteMessage'[39m,
+    payload: { chat_id: [33m-838949044[39m, message_id: [33m1838[39m }
+  }
+}
+An unexpected error has occurred. TelegramError: 400: Bad Request: message can't be deleted for everyone
+    at Telegram.callApi (/root/node_modules/[4mtelegraf[24m/lib/core/network/client.js:293:19)
+[90m    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)[39m
+    at async [90m/root/bot/[39msrc/group.js:14:17
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17) {
+  response: {
+    ok: [33mfalse[39m,
+    error_code: [33m400[39m,
+    description: [32m"Bad Request: message can't be deleted for everyone"[39m
+  },
+  on: {
+    method: [32m'deleteMessage'[39m,
+    payload: { chat_id: [33m-838949044[39m, message_id: [33m1839[39m }
+  }
+}
+An unexpected error has occurred. TelegramError: 400: Bad Request: message can't be deleted for everyone
+    at Telegram.callApi (/root/node_modules/[4mtelegraf[24m/lib/core/network/client.js:293:19)
+[90m    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)[39m
+    at async [90m/root/bot/[39msrc/group.js:14:17
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17) {
+  response: {
+    ok: [33mfalse[39m,
+    error_code: [33m400[39m,
+    description: [32m"Bad Request: message can't be deleted for everyone"[39m
+  },
+  on: {
+    method: [32m'deleteMessage'[39m,
+    payload: { chat_id: [33m-838949044[39m, message_id: [33m1840[39m }
+  }
+}
+An unexpected error has occurred. TelegramError: 400: Bad Request: message can't be deleted for everyone
+    at Telegram.callApi (/root/node_modules/[4mtelegraf[24m/lib/core/network/client.js:293:19)
+[90m    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)[39m
+    at async [90m/root/bot/[39msrc/group.js:14:17
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17) {
+  response: {
+    ok: [33mfalse[39m,
+    error_code: [33m400[39m,
+    description: [32m"Bad Request: message can't be deleted for everyone"[39m
+  },
+  on: {
+    method: [32m'deleteMessage'[39m,
+    payload: { chat_id: [33m-838949044[39m, message_id: [33m1841[39m }
+  }
+}
+An unexpected error has occurred. TelegramError: 400: Bad Request: message can't be deleted for everyone
+    at Telegram.callApi (/root/node_modules/[4mtelegraf[24m/lib/core/network/client.js:293:19)
+[90m    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)[39m
+    at async [90m/root/bot/[39msrc/group.js:14:17
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17) {
+  response: {
+    ok: [33mfalse[39m,
+    error_code: [33m400[39m,
+    description: [32m"Bad Request: message can't be deleted for everyone"[39m
+  },
+  on: {
+    method: [32m'deleteMessage'[39m,
+    payload: { chat_id: [33m-838949044[39m, message_id: [33m1842[39m }
+  }
+}
+An unexpected error has occurred. TelegramError: 400: Bad Request: message can't be deleted for everyone
+    at Telegram.callApi (/root/node_modules/[4mtelegraf[24m/lib/core/network/client.js:293:19)
+[90m    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)[39m
+    at async [90m/root/bot/[39msrc/group.js:14:17
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17) {
+  response: {
+    ok: [33mfalse[39m,
+    error_code: [33m400[39m,
+    description: [32m"Bad Request: message can't be deleted for everyone"[39m
+  },
+  on: {
+    method: [32m'deleteMessage'[39m,
+    payload: { chat_id: [33m-838949044[39m, message_id: [33m1843[39m }
+  }
+}
+An unexpected error has occurred. TelegramError: 400: Bad Request: message can't be deleted for everyone
+    at Telegram.callApi (/root/node_modules/[4mtelegraf[24m/lib/core/network/client.js:293:19)
+[90m    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)[39m
+    at async [90m/root/bot/[39msrc/group.js:14:17
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17) {
+  response: {
+    ok: [33mfalse[39m,
+    error_code: [33m400[39m,
+    description: [32m"Bad Request: message can't be deleted for everyone"[39m
+  },
+  on: {
+    method: [32m'deleteMessage'[39m,
+    payload: { chat_id: [33m-838949044[39m, message_id: [33m1844[39m }
+  }
+}
+An unexpected error has occurred. TelegramError: 400: Bad Request: message can't be deleted for everyone
+    at Telegram.callApi (/root/node_modules/[4mtelegraf[24m/lib/core/network/client.js:293:19)
+[90m    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)[39m
+    at async [90m/root/bot/[39msrc/group.js:14:17
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17) {
+  response: {
+    ok: [33mfalse[39m,
+    error_code: [33m400[39m,
+    description: [32m"Bad Request: message can't be deleted for everyone"[39m
+  },
+  on: {
+    method: [32m'deleteMessage'[39m,
+    payload: { chat_id: [33m-838949044[39m, message_id: [33m1845[39m }
+  }
+}
+An unexpected error has occurred. TelegramError: 400: Bad Request: message can't be deleted for everyone
+    at Telegram.callApi (/root/node_modules/[4mtelegraf[24m/lib/core/network/client.js:293:19)
+[90m    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)[39m
+    at async [90m/root/bot/[39msrc/group.js:14:17
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17) {
+  response: {
+    ok: [33mfalse[39m,
+    error_code: [33m400[39m,
+    description: [32m"Bad Request: message can't be deleted for everyone"[39m
+  },
+  on: {
+    method: [32m'deleteMessage'[39m,
+    payload: { chat_id: [33m-838949044[39m, message_id: [33m1846[39m }
+  }
+}
+An unexpected error has occurred. TelegramError: 400: Bad Request: message can't be deleted for everyone
+    at Telegram.callApi (/root/node_modules/[4mtelegraf[24m/lib/core/network/client.js:293:19)
+[90m    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)[39m
+    at async [90m/root/bot/[39msrc/group.js:14:17
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17) {
+  response: {
+    ok: [33mfalse[39m,
+    error_code: [33m400[39m,
+    description: [32m"Bad Request: message can't be deleted for everyone"[39m
+  },
+  on: {
+    method: [32m'deleteMessage'[39m,
+    payload: { chat_id: [33m-838949044[39m, message_id: [33m1847[39m }
+  }
+}
+An unexpected error has occurred. TelegramError: 400: Bad Request: message can't be deleted for everyone
+    at Telegram.callApi (/root/node_modules/[4mtelegraf[24m/lib/core/network/client.js:293:19)
+[90m    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)[39m
+    at async [90m/root/bot/[39msrc/group.js:14:17
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17) {
+  response: {
+    ok: [33mfalse[39m,
+    error_code: [33m400[39m,
+    description: [32m"Bad Request: message can't be deleted for everyone"[39m
+  },
+  on: {
+    method: [32m'deleteMessage'[39m,
+    payload: { chat_id: [33m-838949044[39m, message_id: [33m1848[39m }
+  }
+}
+An unexpected error has occurred. TelegramError: 400: Bad Request: message can't be deleted for everyone
+    at Telegram.callApi (/root/node_modules/[4mtelegraf[24m/lib/core/network/client.js:293:19)
+[90m    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)[39m
+    at async [90m/root/bot/[39msrc/group.js:14:17
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17) {
+  response: {
+    ok: [33mfalse[39m,
+    error_code: [33m400[39m,
+    description: [32m"Bad Request: message can't be deleted for everyone"[39m
+  },
+  on: {
+    method: [32m'deleteMessage'[39m,
+    payload: { chat_id: [33m-838949044[39m, message_id: [33m1849[39m }
+  }
+}
+An unexpected error has occurred. TelegramError: 400: Bad Request: message can't be deleted for everyone
+    at Telegram.callApi (/root/node_modules/[4mtelegraf[24m/lib/core/network/client.js:293:19)
+[90m    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)[39m
+    at async [90m/root/bot/[39msrc/group.js:14:17
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17) {
+  response: {
+    ok: [33mfalse[39m,
+    error_code: [33m400[39m,
+    description: [32m"Bad Request: message can't be deleted for everyone"[39m
+  },
+  on: {
+    method: [32m'deleteMessage'[39m,
+    payload: { chat_id: [33m-838949044[39m, message_id: [33m1850[39m }
+  }
+}
+An unexpected error has occurred. TelegramError: 400: Bad Request: message can't be deleted for everyone
+    at Telegram.callApi (/root/node_modules/[4mtelegraf[24m/lib/core/network/client.js:293:19)
+[90m    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)[39m
+    at async [90m/root/bot/[39msrc/group.js:14:17
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17) {
+  response: {
+    ok: [33mfalse[39m,
+    error_code: [33m400[39m,
+    description: [32m"Bad Request: message can't be deleted for everyone"[39m
+  },
+  on: {
+    method: [32m'deleteMessage'[39m,
+    payload: { chat_id: [33m-838949044[39m, message_id: [33m1851[39m }
+  }
+}
+An unexpected error has occurred. TelegramError: 400: Bad Request: message can't be deleted for everyone
+    at Telegram.callApi (/root/node_modules/[4mtelegraf[24m/lib/core/network/client.js:293:19)
+[90m    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)[39m
+    at async [90m/root/bot/[39msrc/group.js:14:17
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17) {
+  response: {
+    ok: [33mfalse[39m,
+    error_code: [33m400[39m,
+    description: [32m"Bad Request: message can't be deleted for everyone"[39m
+  },
+  on: {
+    method: [32m'deleteMessage'[39m,
+    payload: { chat_id: [33m-838949044[39m, message_id: [33m1852[39m }
+  }
+}
+An unexpected error has occurred. TelegramError: 400: Bad Request: message can't be deleted for everyone
+    at Telegram.callApi (/root/node_modules/[4mtelegraf[24m/lib/core/network/client.js:293:19)
+[90m    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)[39m
+    at async [90m/root/bot/[39msrc/group.js:14:17
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17) {
+  response: {
+    ok: [33mfalse[39m,
+    error_code: [33m400[39m,
+    description: [32m"Bad Request: message can't be deleted for everyone"[39m
+  },
+  on: {
+    method: [32m'deleteMessage'[39m,
+    payload: { chat_id: [33m-838949044[39m, message_id: [33m1853[39m }
+  }
+}
+An unexpected error has occurred. TelegramError: 400: Bad Request: message can't be deleted for everyone
+    at Telegram.callApi (/root/node_modules/[4mtelegraf[24m/lib/core/network/client.js:293:19)
+[90m    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)[39m
+    at async [90m/root/bot/[39msrc/group.js:14:17
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17) {
+  response: {
+    ok: [33mfalse[39m,
+    error_code: [33m400[39m,
+    description: [32m"Bad Request: message can't be deleted for everyone"[39m
+  },
+  on: {
+    method: [32m'deleteMessage'[39m,
+    payload: { chat_id: [33m-838949044[39m, message_id: [33m1854[39m }
+  }
+}
+An unexpected error has occurred. TelegramError: 400: Bad Request: message can't be deleted for everyone
+    at Telegram.callApi (/root/node_modules/[4mtelegraf[24m/lib/core/network/client.js:293:19)
+[90m    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)[39m
+    at async [90m/root/bot/[39msrc/group.js:14:17
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17) {
+  response: {
+    ok: [33mfalse[39m,
+    error_code: [33m400[39m,
+    description: [32m"Bad Request: message can't be deleted for everyone"[39m
+  },
+  on: {
+    method: [32m'deleteMessage'[39m,
+    payload: { chat_id: [33m-838949044[39m, message_id: [33m1855[39m }
+  }
+}
+An unexpected error has occurred. TelegramError: 400: Bad Request: message can't be deleted for everyone
+    at Telegram.callApi (/root/node_modules/[4mtelegraf[24m/lib/core/network/client.js:293:19)
+[90m    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)[39m
+    at async [90m/root/bot/[39msrc/group.js:14:17
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17) {
+  response: {
+    ok: [33mfalse[39m,
+    error_code: [33m400[39m,
+    description: [32m"Bad Request: message can't be deleted for everyone"[39m
+  },
+  on: {
+    method: [32m'deleteMessage'[39m,
+    payload: { chat_id: [33m-838949044[39m, message_id: [33m1856[39m }
+  }
+}
+An unexpected error has occurred. TelegramError: 400: Bad Request: message can't be deleted for everyone
+    at Telegram.callApi (/root/node_modules/[4mtelegraf[24m/lib/core/network/client.js:293:19)
+[90m    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)[39m
+    at async [90m/root/bot/[39msrc/group.js:14:17
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17) {
+  response: {
+    ok: [33mfalse[39m,
+    error_code: [33m400[39m,
+    description: [32m"Bad Request: message can't be deleted for everyone"[39m
+  },
+  on: {
+    method: [32m'deleteMessage'[39m,
+    payload: { chat_id: [33m-838949044[39m, message_id: [33m1857[39m }
+  }
+}
+An unexpected error has occurred. TelegramError: 400: Bad Request: message can't be deleted for everyone
+    at Telegram.callApi (/root/node_modules/[4mtelegraf[24m/lib/core/network/client.js:293:19)
+[90m    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)[39m
+    at async [90m/root/bot/[39msrc/group.js:14:17
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17) {
+  response: {
+    ok: [33mfalse[39m,
+    error_code: [33m400[39m,
+    description: [32m"Bad Request: message can't be deleted for everyone"[39m
+  },
+  on: {
+    method: [32m'deleteMessage'[39m,
+    payload: { chat_id: [33m-838949044[39m, message_id: [33m1858[39m }
+  }
+}
+An unexpected error has occurred. TelegramError: 400: Bad Request: message can't be deleted for everyone
+    at Telegram.callApi (/root/node_modules/[4mtelegraf[24m/lib/core/network/client.js:293:19)
+[90m    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)[39m
+    at async [90m/root/bot/[39msrc/group.js:14:17
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17)
+    at async /root/node_modules/[4mtelegraf[24m/lib/composer.js:475:21
+    at async execute (/root/node_modules/[4mtelegraf[24m/lib/composer.js:474:17) {
+  response: {
+    ok: [33mfalse[39m,
+    error_code: [33m400[39m,
+    description: [32m"Bad Request: message can't be deleted for everyone"[39m
+  },
+  on: {
+    method: [32m'deleteMessage'[39m,
+    payload: { chat_id: [33m-838949044[39m, message_id: [33m1859[39m }
+  }
+}
+[LAODLIB] catch ./utils
+[LAODLIB] context ./utils
+[LAODLIB] tools ./utils
+[LAODLIB] times ./utils
+[LOADSCENE] payment
+[LOADSCENE] registration
+[LAODLIB] private ./src
+[LAODLIB] connect ./src
+[LAODLIB] new_member ./src
+[LAODLIB] group ./src
+Бот запущен!
+[LAODLIB] catch ./utils
+[LAODLIB] context ./utils
+[LAODLIB] tools ./utils
+[LAODLIB] times ./utils
+[LOADSCENE] payment
+[LOADSCENE] registration
+[LAODLIB] private ./src
+[LAODLIB] connect ./src
+[LAODLIB] new_member ./src
+[LAODLIB] group ./src
+Бот запущен!

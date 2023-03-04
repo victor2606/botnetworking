@@ -1,0 +1,7 @@
+{
+    "exec": "jiti index.js",
+    "ignore": "*.json",
+    "events": {
+      "restart": "echo \"Restarting...\""
+    }
+}
