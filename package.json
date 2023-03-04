@@ -15,6 +15,7 @@
     "jiti": "^1.17.1",
     "moment-timezone": "^0.5.40",
     "nodemon": "^2.0.20",
-    "telegraf": "^4.11.2"
+    "telegraf": "^4.11.2",
+    "xlsx": "^0.18.5"
   }
 }

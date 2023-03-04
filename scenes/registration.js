@@ -78,7 +78,7 @@ module.exports = (base_ctx) => {
     ctx.session.user.answer = ctx.message.text;
     console.log(ctx.message.from.username);
     ctx.user.edit("registration", ctx.session.user)
-    await ctx.telegram.sendMessage(-838949044, `Регистрация в чате:\n${ctx.session.user.name} @${ctx.message.from.username}\n${ctx.session.user.phone}\n${ctx.session.user.social}\n${ctx.session.user.work}\n${ctx.session.user.work_about}\n${ctx.session.user.earn}\n${ctx.session.user.answer}`)
+    await ctx.telegram.sendMessage(-1001859432020, `Регистрация в чате:\n${ctx.session.user.name} @${ctx.message.from.username}\n${ctx.session.user.phone}\n${ctx.session.user.social}\n${ctx.session.user.work}\n${ctx.session.user.work_about}\n${ctx.session.user.earn}\n${ctx.session.user.answer}`)
     reply(ctx)
     await ctx.telegram.promoteChatMember(ctx.settings.body.chat.chat_id, ctx.from.id, {
       can_change_info: false,

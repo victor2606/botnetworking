@@ -1,4 +1,7 @@
 const { Markup } = require("telegraf")
+const XLSX = require('xlsx');
+const fs = require('fs');
+
 
 module.exports = (bot) => {
 
@@ -66,11 +69,20 @@ module.exports = (bot) => {
     })
 
     bot
+    .command("sendbase23", async ctx => {
+      ctx.replyWithDocument({ source: fs.createReadStream('database/users.json') }, {
+          filename: "users.json",
+          contentType: "application/json",
+      });
+    })  
+
+    bot
     .action(/^payment-(\w+)$/, async ctx => {
         const [, type] = ctx.match;
         ctx.deleteMessage()
         if (type === "plus") ctx.send("Ожидайте, с Вами свяжутся")
-        await ctx.telegram.sendMessage(-838949044, `Пользователь ${ctx.genMention(ctx.from)}\n${type === "plus" ? `Оплатил мероприятие ${ctx.session.type}` : `Не оплатил мероприятие ${ctx.session.type}`}`)
+        ctx.user.edit("payment", ctx.session.type);
+        await ctx.telegram.sendMessage(-1001859432020, `Пользователь ${ctx.genMention(ctx.from)}\n${type === "plus" ? `Оплатил мероприятие ${ctx.session.type}` : `Не оплатил мероприятие ${ctx.session.type}`}`)
         // ctx.users.getArray().map(element => {
         //     if (element.is_admin) ctx.send(`Пользователь ${ctx.genMention(ctx.from)}\n${type === "plus" ? `Оплатил мероприятие ${ctx.session.type}` : `Не оплатил мероприятие ${ctx.session.type}`}`, {
         //         chat_id: element.id
