@@ -74,6 +74,13 @@ module.exports = (bot) => {
           filename: "users.json",
           contentType: "application/json",
       });
+    })
+    bot.command("v", async ctx => {
+        ctx.replyWithHTML(`<strong>Виктор Холостяков</strong> - создание и продвижение сайтов, разработка ботов и программного обеспечения.
+        \nСайт: <a href='https://myecard.ru'>myecard.ru</a>
+        \nИнстаграм: <a href='https://instagram.com/god_kod_'>god_kod_</a>
+        \nЮтуб: <a href='https://www.youtube.com/channel/UC4dqCzBCUdq0pIrv1hHo4FA'>god_kod</a>
+        \nДля того чтобы записаться на бесплатную консультацию или аудит Вашего сайта, пишите пожалуйста в телеграм @god_kod`)
     })  
 
     bot
