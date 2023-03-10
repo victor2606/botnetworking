@@ -36,7 +36,7 @@ bot
 load_lib("private", "./src")
 load_lib("connect", "./src")
 load_lib("new_member", "./src")
-load_lib("group", "./src")
+// load_lib("group", "./src")
 
 
 bot
