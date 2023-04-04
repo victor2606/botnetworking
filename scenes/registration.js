@@ -83,9 +83,9 @@ module.exports = (base_ctx) => {
     await ctx.telegram.promoteChatMember(ctx.settings.body.chat.chat_id, ctx.from.id, {
       can_change_info: false,
       can_post_messages: true,
-      can_edit_messages: true,
-      can_delete_messages: true,
-      can_invite_users: true,
+      can_edit_messages: false,
+      can_delete_messages: false,
+      can_invite_users: false,
       can_restrict_members: false,
       can_pin_messages: false,
       can_promote_members: false
